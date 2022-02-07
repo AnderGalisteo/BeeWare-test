@@ -1,1 +1,1 @@
-BeeWare test
+Small project to test BeeWare
